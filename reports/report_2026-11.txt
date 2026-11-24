@@ -1,0 +1,5 @@
+----- SPENDWISE MONTHLY REPORT -----
+Month: 2026-11
+Total Income: Rs. 5000.0
+Total Expense: Rs. 4301.0
+Remaining Balance: Rs. 699.0
