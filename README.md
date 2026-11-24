@@ -3,9 +3,9 @@
 Smart Expense & Budget Analyzer using Python
 
 ## Features
-- Transactions track karna (`transactions.csv`)
+- tracking your transaction (`transactions.csv`)
 - Budget set karna aur compare karna (`budgets.csv`)
-- Monthly reports generate karna (`reports/` folder mein)
+- generating monthly reports (`reports/` folder mein)
 
 ## How to Run
 ```bash
